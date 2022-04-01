@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod --rwx nello
+#!/bih/bash
+chmod --rwx hello
