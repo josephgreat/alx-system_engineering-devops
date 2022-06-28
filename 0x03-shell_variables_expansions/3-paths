@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH | sed -i 's/\// /g | wc -w
