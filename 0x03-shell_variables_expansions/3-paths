@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | sed -i 's/\// /g | wc -w
+echo $PATH | tr '/' ' ' | wc -word
